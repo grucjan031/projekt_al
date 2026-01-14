@@ -1,0 +1,36 @@
+{
+  "id": "d2e7b34d-72cd-406e-b71f-166893dee7f5",
+  "name": "grupa841_proj",
+  "publisher": "Gracjan Połomski 151008 Mateusz Pieczyński 158147",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [{    "id": "a41facb4-aa1f-4f4b-a6d5-a574d9a33911",
+  "publisher": "IT.integro sp. z o.o.",
+  "name": "Polish Functionality - Starter Pack",
+  "version": "1.0.1.150"}],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "8.0",
+  "features": [
+    "NoImplicitWith","TranslationFile"
+  ],
+  "target": "OnPrem"
+}
